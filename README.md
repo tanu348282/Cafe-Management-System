@@ -8,62 +8,39 @@ This project demonstrates the use of Python fundamentals such as dictionaries, l
 🚀 Features
 
 📂 Category-based menu system
-
 🛒 Multiple item ordering
-
 💰 Automatic bill calculation
-
 🧾 Receipt generation
-
 📁 Receipt saved as receipt.txt
-
 🔁 Loop-based ordering system
 
 🧠 Concepts Used
 
 Nested Dictionaries
-
 Loops (while, for)
-
 Conditional Statements
-
 Lists & Tuples
-
 User Input Handling
-
 File Handling (open(), write mode)
 
-UTF-8 Encoding
 
 🗂️ Menu Categories
 
 Appetizers
-
 Soup
-
 Pastas
-
 Pizza
-
 Seafood
-
 Sweet Treats
-
 Drinks
 
 🖥️ How to Run the Project
 
 Make sure Python is installed.
-
 Download or clone the repository.
-
 Open terminal in project folder.
-
 Run:
-
 python cafe.py
-
-
 Follow on-screen instructions to place your order.
 
 📄 Sample Output
@@ -86,24 +63,16 @@ Total Amount: Rs.3590
 📁 Output File
 
 After order completion, a file named:
-
 receipt.txt
-
-
 is automatically generated in the same directory.
 
 🔧 Future Improvements
 
 Add GST / Tax Calculation
-
 Add Discount System
-
 Add Customer Name
-
 Add Admin Mode
-
 Convert to OOP version
-
 Build GUI using Tkinter
 
 👩‍💻 Author
